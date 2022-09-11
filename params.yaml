@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_big_omen_by_hp_laptop_15_ce0xx__42785: http://big-OMEN-by-HP-Laptop-15-ce0xx:42785/
+rosversion: '1.15.14
+
+  '
+run_id: 68c305d6-1d87-11ed-814d-ef79b93b5aec
+turtlesim:
+  background_b: 0
+  background_g: 0
+  background_r: 0
